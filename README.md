@@ -9,11 +9,47 @@
    ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝
 ```
 
-### `Tomáš` · Full-Stack Developer · Czech Republic 🇨🇿
+```
+██╗  ██╗██╗   ██╗███╗   ██╗██╗ ██████╗██╗  ██╗██╗   ██╗
+██║ ██╔╝╚██╗ ██╔╝████╗  ██║██║██╔════╝██║ ██╔╝╚██╗ ██╔╝
+█████╔╝  ╚████╔╝ ██╔██╗ ██║██║██║     █████╔╝  ╚████╔╝ 
+██╔═██╗   ╚██╔╝  ██║╚██╗██║██║██║     ██╔═██╗   ╚██╔╝  
+██║  ██╗   ██║   ██║ ╚████║██║╚██████╗██║  ██╗   ██║   
+╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝   
+```
+
+```
+███╗   ███╗██╗   ██╗    ██████╗ ███████╗███████╗████████╗
+████╗ ████║╚██╗ ██╔╝    ██╔══██╗██╔════╝██╔════╝╚══██╔══╝
+██╔████╔██║ ╚████╔╝     ██████╔╝█████╗  ███████╗   ██║   
+██║╚██╔╝██║  ╚██╔╝      ██╔══██╗██╔══╝  ╚════██║   ██║   
+██║ ╚═╝ ██║   ██║       ██████╔╝███████╗███████║   ██║   
+╚═╝     ╚═╝   ╚═╝       ╚═════╝ ╚══════╝╚══════╝   ╚═╝   
+██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗███████╗
+██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝
+██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║   ███████╗
+██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║   ╚════██║
+██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║   ███████║
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝
+ █████╗ ██████╗ ███████╗    ██╗      ██████╗  ██████╗██╗  ██╗███████╗██████╗ 
+██╔══██╗██╔══██╗██╔════╝    ██║     ██╔═══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗
+███████║██████╔╝█████╗      ██║     ██║   ██║██║     █████╔╝ █████╗  ██║  ██║
+██╔══██║██╔══██╗██╔══╝      ██║     ██║   ██║██║     ██╔═██╗ ██╔══╝  ██║  ██║
+██║  ██║██║  ██║███████╗    ███████╗╚██████╔╝╚██████╗██║  ██╗███████╗██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝╚═════╝ 
+██╗   ██╗███╗   ██╗██████╗ ███████╗██████╗     ███╗   ██╗██████╗  █████╗ 
+██║   ██║████╗  ██║██╔══██╗██╔════╝██╔══██╗    ████╗  ██║██╔══██╗██╔══██╗
+██║   ██║██╔██╗ ██║██║  ██║█████╗  ██████╔╝    ██╔██╗ ██║██║  ██║███████║
+██║   ██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗    ██║╚██╗██║██║  ██║██╔══██║
+╚██████╔╝██║ ╚████║██████╔╝███████╗██║  ██║    ██║ ╚████║██████╔╝██║  ██║
+ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝
+```
+
+### `Tomáš Kynický` · Full-Stack Developer · Czech Republic 🇨🇿
 
 *Building systems since 2016 · Full-time since 2021*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0e75b6&style=flat)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=TomasKynicky&color=0e75b6&style=flat)](https://github.com/TomasKynicky)
 
 </div>
 
@@ -128,39 +164,3 @@ Prompt engineering · AI agent setup · Workflow automations · LLM integrations
 
 *This is the stuff I can actually talk about publicly.*
 
----
-
-## `$ uptime && stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-
-</div>
-
-> ⚠️ **Note:** Stats reflect public repos only. The interesting commits are elsewhere.
-
----
-
-## `$ ping tomas`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR@EMAIL.CZ)
-
-</div>
-
----
-
-<div align="center">
-
-```
-"Most of my best work is invisible to the internet.
- That's usually how it should be."
-```
-
-*Available for interesting problems · Not available for boring ones*
-
-</div>
